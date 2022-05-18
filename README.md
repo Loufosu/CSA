@@ -1,2 +1,2 @@
 # CSA
-CSA repo for exercises
+CSA repo for Exercises and Assignments
