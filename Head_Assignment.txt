@@ -1,0 +1,7 @@
+#!/bin/bash
+#https://github.com/Loufosu/CSA.git
+#Output the first 20 lines of the given text file.
+sed -n 1,20p filename.txt
+
+#Output the first 20 characters of the given text file.
+head -c -20 filename.txt
